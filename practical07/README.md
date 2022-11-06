@@ -26,7 +26,7 @@ To compile the C code, one needs to write the following lines:
 ```
 gcc BasicAllocation.c -o BasicAllocation.exe 
 ```
-This creates an executable called `Euler.exe`. To execute the executable, enter the following lines:
+This creates an executable called `BasicAllocation.exe`. To execute the executable, enter the following lines:
 ```
 ./BasicAllocation.exe
 ```
